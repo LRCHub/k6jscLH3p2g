@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "コール・ミー・メイビー",
+  "base_artist": "Carly Rae Jepsen",
+  "createdAt": "2025-12-06T11:17:26.100007Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "コール・ミー・メイビー",
+      "artist": "Various Artists",
+      "has_synced": false,
+      "path": "select/01_コール・ミー・メイビー_Various_Artists.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Call Me Maybe",
+      "artist": "Carly Rae Jepsen",
+      "has_synced": false,
+      "path": "select/pl_01_Call_Me_Maybe_Carly_Rae_Jepsen.txt"
+    }
+  ]
+}
